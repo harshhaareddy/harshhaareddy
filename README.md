@@ -85,6 +85,5 @@
 # Connect with me<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Handshake.gif" height="32px">
 
 
-
 | [<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/harshhaa-vardhan-reddy-5b4866113/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/harshhaareddy) | [<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:harshhaa03@gmail.com)
 |:---:|:---:|:---:|
