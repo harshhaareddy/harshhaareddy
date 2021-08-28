@@ -38,13 +38,16 @@
 
 ## 📊 My Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshhaareddy &theme=radical)
-  <a href="https://github.com/harshhaareddy/github-readme-stats"><img alt="Harshhaa Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br>
+  <a href="https://github.com/harshhaareddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhaareddy&&count_private=true&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Harshhaa's github stats" /></a>
+  <a href="https://github.com/harshhaareddy/github-readme-stats"><img alt="Harshhaa Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD)](https://github.com/harshhaareddy/android_device_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
 
 
 </p>
