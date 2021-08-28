@@ -24,12 +24,8 @@
 
 ## 📊 My Github Stats
 
-
-<br>
-  <a href="https://github.com/harshhaareddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhaareddy&&count_private=true&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Harshhaa's github stats" /></a>
-  <a href="https://github.com/harshhaareddy/github-readme-stats"><!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
-</a>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhaareddy&show_icons=true&locale=en&count_private=true&theme=dracula" alt="harshhaareddy" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhaareddy&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="harshhaareddy" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
