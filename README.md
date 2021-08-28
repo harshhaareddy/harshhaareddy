@@ -33,8 +33,8 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD)](https://github.com/harshhaareddy/android_device_asus_X00TD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD&theme=vision-friendly-dark)](https://github.com/harshhaareddy/android_device_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD&theme=vision-friendly-dark)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
 
 
 </p>
