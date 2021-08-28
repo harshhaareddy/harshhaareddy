@@ -21,27 +21,15 @@
   </em>  
 </p>
 
-<br>
-
-- <img alt="GIF" src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my 
-## Metrics
-<br>
-<p align="center">
-<img src="https://github.com/harshhaareddy/harshhaareddy/actions/workflows/main.yml/badge.svg" alt="https://github.com/harshhaareddy/harshhaareddy/actions/workflows/main.yml" /><br></p>
-</p>
-
-<br>
-<p align="center">
-<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/github-metrics.svg" alt="Harshhaa Reddy" /><br>
-</p>
 
 ## 📊 My Github Stats
 
 
 <br>
   <a href="https://github.com/harshhaareddy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhaareddy&&count_private=true&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Harshhaa's github stats" /></a>
-  <a href="https://github.com/harshhaareddy/github-readme-stats"><img alt="Harshhaa Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/harshhaareddy/github-readme-stats"><!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+</a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
