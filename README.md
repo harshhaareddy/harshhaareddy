@@ -28,13 +28,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhaareddy&theme=vision-friendly-dark&hide_langs_below=1&count_private=true" />
  <a href="https://github.com/harshhaareddy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhaareddy&show_icons=true&theme=vision-friendly-dark&layout=compact&line_height=27&count_private=true" alt="Harshhaa's github stats"/>
-</a>
-  <br/>
+ <a/>
+     <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD&theme=vision-friendly-dark)](https://github.com/harshhaareddy/android_device_asus_X00TD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD&theme=vision-friendly-dark)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
+## Streak
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhaareddy&theme=tokyonight&hide_rank=false&count_private=true&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></p>
+
+ 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD&theme=tokyonight)](https://github.com/harshhaareddy/android_device_asus_X00TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD&theme=tokyonight)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
 
 
 </p>
