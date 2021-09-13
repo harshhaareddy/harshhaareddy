@@ -36,6 +36,12 @@
 ## Streak
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhaareddy&theme=tokyonight&hide_rank=false&count_private=true&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/></p>
+     
+## Contribution Graph
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=harshhaareddy&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
+</p>
 
  
 
