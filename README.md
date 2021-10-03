@@ -1,8 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Hey there :wave:
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshhaa</h1>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg/" />
+</p>
+
+<h3 align="center">I'm a passionate Cloud and DevOps Engineer from India.</h3>
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44.svg)](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44) 
 -->
@@ -14,7 +19,7 @@
 <p>
   <em>
     I am  graduated from <a href="https://www.mallareddyuniversity.ac.in/"> <b>MallaReddy University</b>, Hyderabad</a>.  
-    A budding <b>Android Developer</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Cloud and DevOps Engineer</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Developer.gif" width="30px"> and a <b>Development    Enthusiast,</b>&nbsp;<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Medal.gif" width="20px">
@@ -43,18 +48,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=harshhaareddy&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
 </p>
 
- 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_device_asus_X00TD&theme=tokyonight)](https://github.com/harshhaareddy/android_device_asus_X00TD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshhaareddy&repo=android_vendor_asus_X00TD&theme=tokyonight)](https://github.com/harshhaareddy/android_vendor_asus_X00TD)
-
-
 </p>
-</p>
-
-## ❤ Views
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 
 <br />
 
@@ -85,5 +79,4 @@
 # Connect with me<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Handshake.gif" height="32px">
 
 
-| [<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/harshhaa-vardhan-reddy-5b4866113/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/harshhaareddy) | [<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:harshhaa03@gmail.com)
-|:---:|:---:|:---:|
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshhaa-Dev-Projects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshhaa-vardhan-reddy-5b4866113/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://harshhaa-dev-projects.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](harshhaa03@gmail.com)  
