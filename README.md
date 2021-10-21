@@ -1,5 +1,4 @@
-# Hey there :wave:
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Harshhaa!;I'm+a+Cloud+Developer...;I'm+a+Devops+Engineer;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
