@@ -12,21 +12,6 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44.svg)](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Earth.gif" width="24px">
-
-<p>
-  <em>
-    I am  graduated from <a href="https://www.mallareddyuniversity.ac.in/"> <b>MallaReddy University</b>, Hyderabad</a>.  
-    A budding <b>Cloud and DevOps Engineer</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Developer.gif" width="30px"> and a <b>Development    Enthusiast,</b>&nbsp;<img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/harshhaareddy/harshhaareddy/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
-
-
 ## 📊 My Github Stats
 
  <a href="https://github.com/harshhaareddy">
